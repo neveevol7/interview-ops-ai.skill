@@ -1,22 +1,45 @@
-# Interview Ops AI (面试运营 AI)
+# Interview Ops AI
 
-## 项目愿景 (Project Vision)
+[中文](#-interview-ops-ai-面试运营-ai) | [English](#-interview-ops-ai-english)
+
+---
+
+## 🇨🇳 Interview Ops AI (面试运营 AI)
+
+### 项目愿景
 Interview Ops AI 旨在通过智能化的 AI 驱动工具彻底改变招聘流程，帮助面试官更有效、更一致地评估候选人。我们的目标是通过结构化提示词和标准化的报告，架起技术要求与候选人表现之间的桥梁。
 
+### 核心功能
+- **核心引擎 (Core Engine):** 专为面试技能适配而设计的强大系统提示词逻辑。
+- **结构化报告 (Structured Reporting):** 提供全面的候选人评估报告标准化 Markdown 模板。
+- **工作流集成 (Workflow Integration):** 旨在无缝融入现代技术招聘流程。
+
+### 使用说明
+1.  **配置系统提示词:** 使用 `core-engine.md` 中的逻辑设置您的 AI 助手。
+2.  **进行面试:** 在面试过程中将 AI 助手作为副驾驶或评估员。
+3.  **生成报告:** 使用 `report-template.md` 格式化最终评估报告。
+
+### 快速入门
+确保您已设置必要的 AI 环境（如 Gemini CLI、OpenAI API 等），并应用本仓库中提供的提示词。
+
+---
+
+## 🇺🇸 Interview Ops AI (English)
+
+### Vision
 Interview Ops AI aims to revolutionize the recruitment process by providing intelligent, AI-driven tools to assist interviewers in evaluating candidates more effectively and consistently. Our goal is to bridge the gap between technical requirements and candidate performance through structured prompts and standardized reporting.
 
-## 核心功能 (Key Features)
-- **核心引擎 (Core Engine):** 专为面试技能适配而设计的强大系统提示词逻辑。 (A robust system prompt logic designed for interview skill adaptation.)
-- **结构化报告 (Structured Reporting):** 提供全面的候选人评估报告标准化 Markdown 模板。 (Standardized Markdown templates for comprehensive candidate evaluation reports.)
-- **工作流集成 (Workflow Integration):** 旨在无缝融入现代技术招聘流程。 (Designed to fit seamlessly into modern technical recruitment pipelines.)
+### Key Features
+- **Core Engine:** A robust system prompt logic designed for interview skill adaptation.
+- **Structured Reporting:** Standardized Markdown templates for comprehensive candidate evaluation reports.
+- **Workflow Integration:** Designed to fit seamlessly into modern technical recruitment pipelines.
 
-## 使用说明 (Usage)
-1.  **配置系统提示词 (Configure System Prompt):** 使用 `core-engine.md` 中的逻辑设置您的 AI 助手。 (Use the logic in `core-engine.md` to set up your AI agent.)
-2.  **进行面试 (Conduct Interview):** 在面试过程中将 AI 助手作为副驾驶或评估员。 (Run the interview session using the AI agent as a co-pilot or evaluator.)
-3.  **生成报告 (Generate Report):** 使用 `report-template.md` 格式化最终评估报告。 (Utilize `report-template.md` to format the final assessment.)
+### Usage
+1.  **Configure System Prompt:** Use the logic in `core-engine.md` to set up your AI agent.
+2.  **Conduct Interview:** Run the interview session using the AI agent as a co-pilot or evaluator.
+3.  **Generate Report:** Utilize `report-template.md` to format the final assessment.
 
-## 快速入门 (Getting Started)
-确保您已设置必要的 AI 环境（如 Gemini CLI、OpenAI API 等），并应用本仓库中提供的提示词。
+### Getting Started
 Ensure you have the necessary AI environment set up (e.g., Gemini CLI, OpenAI API) and apply the prompts provided in this repository.
 
 ---
