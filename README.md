@@ -7,8 +7,6 @@
 ### 🎯 核心价值 / Core Value
 这是一个专为 **Product Manager / Project Manager** 设计的面试辅助 Skill。通过将资深 PM 的方法论工程化，它能帮你快速生成一份具备“确定性交付价值”的面试攻略。
 
-This is an interview assistance Skill designed specifically for **Product Managers / Project Managers**. By engineering veteran PM methodologies, it helps you quickly generate a highly tailored interview strategy.
-
 ---
 
 ### 🚀 快速上手 (Quick Start)
@@ -21,22 +19,12 @@ This is an interview assistance Skill designed specifically for **Product Manage
 <summary><b>🌍 Click here for English Guide (点击展开英文版指南)</b></summary>
 
 ### 🚀 Quick Start (EN)
-
 1. **Get the Prompt**: Copy the entire content of [`core-engine.md`](./core-engine.md).
 2. **Run the Skill**: Send the content to **Gemini, ChatGPT, or Claude**.
 3. **Input Data**: Follow the AI's lead to provide your Resume, JD, Interview Round, and Salary info.
-
-### 🎯 Key Features
-- **ROI Driven**: Calculates how much onboarding cost you can save for the company.
-- **Project Mapping**: Automatically aligns your resume projects with JD keywords.
-- **Salary Negotiation**: Provides scripts based on your current pay vs. the JD range.
-
 </details>
 
 ---
-
-### 📦 输出成果 / Output
-完成交互后，你将获得一份包含自我介绍、STAR 案例、薪资建议等 9 大模块的 **.md 攻略文档**。
 
 ### 📄 开源协议 / License
 MIT License | Created by [neveevol7](https://github.com/neveevol7)
